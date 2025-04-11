@@ -15,11 +15,11 @@ The site is deployed via [Vercel](https://vercel.com) and serves as a central pl
 
 ## ✨ Features
 
-- ⚙️ Built with Nuxt 3 for performance and flexibility
-- 🎨 Tailwind CSS for responsive, modern styling
-- 📁 Dynamic routing for portfolio pages
-- 🧩 Component-based structure for easy updates
-- 🌐 Deployed on Vercel with automatic CI/CD
+- Built with Nuxt 3 for performance and flexibility
+- Tailwind CSS for responsive, modern styling
+- Dynamic routing for portfolio pages
+- Component-based structure for easy updates
+- Deployed on Vercel with automatic CI/CD
 
 
 
